@@ -1,11 +1,7 @@
 # RizinApiComment
 Inject Comment in Thai language to Translate short description of API Durin Reverse Engineer Task on Rizin
 
-from pathlib import Path
 
-readme_path = Path("README.md")
-
-readme_content = """\
 # 🇹🇭 Rizin API Comment Injector (Thai)
 **Inject คำอธิบายภาษาไทยเข้าไปในไฟล์ PE เพื่อช่วยวิเคราะห์ Reverse Engineering ด้วย Rizin CLI**
 
